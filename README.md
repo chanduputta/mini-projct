@@ -6,10 +6,10 @@ Working stills:
 
 ![VID_20220107_192559887_exported_5911_2](https://user-images.githubusercontent.com/31448776/151032320-f2c1ec3a-73dc-440b-b36b-4420712bffaa.jpg)
 
-
 .
 
-
-
-
 ![Screenshot (6)](https://user-images.githubusercontent.com/31448776/151032756-cab271ae-0d83-4fdc-9630-2a323f98cf42.png)
+
+Application: i) Can Be used for Object Detection
+            ii) Can be used to maintain Distance
+           iii) Can be used as serveylense. 
