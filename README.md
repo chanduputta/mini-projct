@@ -1,4 +1,4 @@
-# mini-projct
+# Sonar System with GUI Application 
 mini project for an electronics Engineering credentials
 Working stills:
 
