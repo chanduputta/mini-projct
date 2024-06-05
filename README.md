@@ -3,7 +3,7 @@
 A minimal design of the radar detector prototypes using Sonar system
 
 embedded systems in use: Ultrasonic sensor, servo motor.
-used Java for GUI, embedded C for Arduino Uno [code Explaination Link](Sonar_code_explanation.md)
+used Java for GUI, C++ for Arduino Uno [code Explaination Link](Sonar_code_explanation.md)
 
 Application: i) Can Be used for Object Detection
             ii) Can be used to maintain Distance
