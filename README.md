@@ -1,4 +1,4 @@
-# Mini – Sonar System with GUI Application (Embedded system)
+# Sonar System with GUI Application (Embedded system)
 
 A minimal design of the radar detector prototypes using Sonar system
 
@@ -10,7 +10,7 @@ Application: i) Can Be used for Object Detection
            iii) Can be used as serveylense. 
            
 ### mini project for an electronics Engineering credentials
-Working stills:
+## Working stills:
 
 ![VID_20220107_192530665_exported_14988](https://user-images.githubusercontent.com/31448776/151032152-ccf1257b-f059-457f-9901-0529baa8e680.jpg)
 
